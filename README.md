@@ -1,3 +1,9 @@
+our Presentation from team Vizent - Vision enhancement and technology
+
+
+https://prezi.com/view/d7801T0L4haTAAeIF2TJ/
+
+
 
 # Telco Customer Churn Analysis
 This repository contains a Python script for analyzing Telco customer churn data and building a predictive model using random forest classification. The analysis is performed in a Google Colab notebook.
